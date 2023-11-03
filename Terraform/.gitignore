@@ -2,3 +2,4 @@
 /modules/vpc/.terraform.lock.hcl
 /modules/vpc/terraform.tfstate
 /modules/vpc/terraform.tfstate.backup
+/modules/.DS_Store

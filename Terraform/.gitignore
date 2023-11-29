@@ -4,3 +4,12 @@
 /modules/vpc/terraform.tfstate.backup
 /modules/.DS_Store
 .DS_Store
+/modules/ec2-webapp/.terraform/
+/modules/ec2-webapp/.terraform.lock.hcl
+/modules/ec2-webapp/terraform.tfstate
+/modules/ec2-webapp/terraform.tfstate.backup
+/modules/vpc/errored.tfstate
+/production/terraform.tfstate
+/production/terraform.tfstate.backup
+/production/my_aws_key
+/production/my_aws_key.pub
